@@ -1,0 +1,12 @@
+1
+dstefan
+3ead7ae0564a6e4516245dc912e2b2bf36fc2827ae1b5ef2c136ff0430afd1bf
+true
+2
+student
+264c8c381bf16c982a4e59b0dd4c6f7808c51a05f64c35db42cc78a2a72875bb
+true
+3
+profesor
+48a8d9ca65d4ffed5d24d09cde13ef76320e7d4ebf468bcfcb5c4a17f87785a9
+true
