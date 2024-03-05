@@ -57,4 +57,4 @@ podataka.
 koriste u aplikaciji te implementirati klasu koja će implementirati funkcionalnosti
 kreiranje konekcije s bazom podataka, izvršavanje upita nad bazom podataka,
 dohvaćanje podataka iz baze podataka te zatvaranje konekcije s bazom
-podataka.
+podataka. (korišten H2 Database Engine)
